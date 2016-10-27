@@ -1,0 +1,29 @@
+
+body { background: lightyellow;
+       color: darkgray;
+       font-size: 14pt; }
+
+body { font-family: 'Oswald', sans-serif; }
+
+h1 { font-size: 250%;
+     font-weight: bold;
+     color: navy }
+     
+h2 { border-left: 10px solid orange }
+     
+h2 { font-size: 150%;
+	 font-style: italic }
+     
+nav li { display: inline-block }
+nav li { border: 2px solid black }
+nav li { padding: 10px;
+		 margin: 5px;
+		 background: white }
+		 
+a { color: darkred;
+	text-decoration: none }
+a:hover { color: red }
+
+.title { font-weight: bold;
+		 text-decoration: underline; }
+.special { color: darkgreen }
